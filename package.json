@@ -12,12 +12,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:sajjad-yousaf/mailcub.git"
+    "url": "git+ssh://git@github.com:devflips/mailcub.git"
   },
   "author": "Team DLX",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sajjad-yousaf/mailcub/issues"
+    "url": "https://github.com/devflips/mailcub/issues"
   },
-  "homepage": "https://github.com/sajjad-yousaf/mailcub#readme"
+  "homepage": "https://github.com/devflips/mailcub#readme"
 }
