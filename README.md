@@ -1,5 +1,5 @@
 # Mailcub Package Documentation
-Version: 2.0.8
+Version: 2.0.9
 
 ## Introduction
 Mailcub is an npm package that enables you to send emails using a simple and straightforward interface. It provides a function to send emails with the following features:
@@ -38,7 +38,7 @@ const emailBody = {
   receiver: 'user@example.com',
   subject: 'Subject',
   html: '<h1>Hello</h1>',
-  attachment: 'attachment_file'
+  attachment: attachment_file
 };
 
 const secretKey = 'your-secret-key';
