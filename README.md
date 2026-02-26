@@ -38,7 +38,7 @@ const emailBody = {
   receiver: 'user@example.com',
   subject: 'Subject',
   html: '<h1>Hello</h1>',
-  attachment: 'attachment_path'
+  attachment: 'attachment_file'
 };
 
 const secretKey = 'your-secret-key';
@@ -58,7 +58,7 @@ mailcub.sendMail(emailBody, secretKey)
     - receiver (String): The recipient's email address.
     - subject (String): The email subject.
     - html (String): The HTML content of the email.
-    - attachment (String or Array): The file path of a single attachment, or an array of file paths for multiple attachments — e.g., ['path/to/file1', 'path/to/file2', 'path/to/file3'].
+    - attachment (File or Array of files): The single attachment file, or an array of files for multiple attachments — e.g., ['file1', 'file2', 'file3'].
 
 - secretKey (String): The secret key for authentication. You can obtain this key from console.mailcub.com.
 
