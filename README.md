@@ -68,4 +68,7 @@ If you encounter any issues or have questions, please contact our support team a
 ## License
 This package is distributed under the MIT License. See the LICENSE file for details.
 
+## Keywords
+mailcub, mailcub api, email, mail, newsletter
+
 
