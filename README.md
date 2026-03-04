@@ -46,7 +46,7 @@ Sends an email. Returns a Promise.
 | Parameter | Type | Description |
 |-----------|------|-------------|
 | `body` | Object | Email payload (see below). |
-| `key` | String | Secret key for authentication. From [client.mailcub.com](https://client.mailcub.com). |
+| `key` | String | Secret key for authentication. From [mailcub.com](https://mailcub.com). |
 
 ### `body` object
 
@@ -149,7 +149,7 @@ async function sendWelcomeEmail(to) {
 ## Troubleshooting & FAQ
 
 **Where do I get the secret key?**  
-Sign up and get your key at [client.mailcub.com](https://client.mailcub.com).
+Sign up and get your key at [mailcub.com](https://mailcub.com).
 
 **"Error sending email" or failed requests**  
 - Ensure `email_from` uses a domain you’ve registered in Mailcub.  
