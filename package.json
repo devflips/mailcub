@@ -17,11 +17,14 @@
   "author": "Devflips",
   "license": "ISC",
   "keywords": [
-    "mailcub",
-    "mailcub api",
-    "email",
-    "mail",
-    "newsletter"
+   "mailcub",
+   "email",
+   "email api",
+   "transactional email",
+   "smtp",
+   "nodejs",
+   "email hosting",
+   "mail server" 
   ],
   "bugs": {
     "url": "https://github.com/devflips/mailcub/issues"

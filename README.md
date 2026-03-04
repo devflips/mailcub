@@ -1,6 +1,6 @@
-# Mailcub — Send email from Node.js with your domain
+#Mailcub — Node.js SDK to send transactional emails and newsletters from your own domain using the MailCub email API.
 
-**Mailcub** is a Node.js npm package to send HTML or plain-text emails and attachments using your registered domain. Simple API, secret-key auth, ideal for transactional email and newsletters.
+**Mailcub** is a lightweight Node.js package for sending HTML or plain‑text emails and attachments from your own domain via the MailCub email API. It’s built for transactional emails, app notifications, and simple newsletters without managing SMTP servers yourself.
 
 [![npm version](https://img.shields.io/npm/v/mailcub.svg)](https://www.npmjs.com/package/mailcub)
 [![npm downloads](https://img.shields.io/npm/dm/mailcub.svg)](https://www.npmjs.com/package/mailcub)
@@ -33,7 +33,7 @@ mailcub.sendMail(emailBody, 'your-secret-key')
   .catch(err => console.error('Error:', err));
 ```
 
-Get your secret key at [client.mailcub.com](https://client.mailcub.com).
+Get your secret key at [mailcub.com](https://mailcub.com).
 
 ---
 
