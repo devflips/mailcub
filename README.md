@@ -1,4 +1,4 @@
-#Mailcub — Node.js SDK to send transactional emails and newsletters from your own domain using the MailCub email API.
+# Mailcub — Node.js SDK to send transactional emails and newsletters from your own domain using the MailCub email API.
 
 **Mailcub** is a lightweight Node.js package for sending HTML or plain‑text emails and attachments from your own domain via the MailCub email API. It’s built for transactional emails, app notifications, and simple newsletters without managing SMTP servers yourself.
 
